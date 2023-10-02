@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Imgcomp from './components/imgComponent';
+import { useState,useEffect } from 'react';
 
 
 function App() {
@@ -18,8 +19,8 @@ function App() {
   return (
     <>
       <div style={{
-        margin: '20px',
-        paddingLeft: '50px',
+        margin: '10px',
+        paddingLeft: '30px',
         display: 'flex',
         flexWrap: 'wrap'
       }}>

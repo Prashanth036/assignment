@@ -5,8 +5,8 @@ export default function Imgcomp({img}){
     return(
         <>
         <div style={{
-            margin:'30px',
-            padding:'50px',
+            margin:'20px',
+            padding:'25px',
             height:'250px',
             boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'
         }}>
