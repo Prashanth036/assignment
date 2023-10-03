@@ -1,7 +1,7 @@
 {
   "name": "assignment",
   "version": "0.1.0",
-  "homepage": "https://prashanth036.github.io/assignment/",
+  "homepage": "https://prashanth036.github.io/assignment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
